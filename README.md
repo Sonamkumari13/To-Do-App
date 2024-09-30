@@ -4,7 +4,9 @@ It allows users to easily create, manage, and track their daily tasks, enhancing
 
 # Features
 Task Management: Create, edit, and delete tasks with due dates and reminders.
+
 Categorization: Organize tasks into customizable categories with color coding.
+
 Prioritization: Assign priority levels to tasks according to the time.
 
 ## Video
